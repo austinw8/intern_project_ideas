@@ -1,4 +1,4 @@
-Dataset ideas:
+**Dataset package ideas:**
 1. **Agricultural dataset**:
 	- ***Crop Production Data:*** Information on yields, farming practices, and the impact of climate change.
  	- ***Animal production data***
