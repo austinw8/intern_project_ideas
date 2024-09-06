@@ -11,4 +11,4 @@ Dataset ideas:
 3. Telecommunication dataset:
 4. Housing dataset:
 5. Health care dataset: Health data from rural and remote regions is often underreported, particularly on endemic diseases, maternal health, and healthcare infrastructure.
-Why It Matters: Access to comprehensive health data can improve healthcare delivery, resource allocation, and pandemic preparedness.
+Access to comprehensive health data can improve healthcare delivery, resource allocation, and pandemic preparedness.
