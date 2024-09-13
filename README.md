@@ -29,3 +29,8 @@ The goal of this project is to design a database and data pipeline that connects
 -   land use and ownership
 
 -   agriculture trade between nations
+
+**Possible Data Locations:**
+
+  [worldbank](https://data.worldbank.org/topic/agriculture-and-rural-development)
+
