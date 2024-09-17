@@ -1,36 +1,39 @@
-# intern_project
-
-A place to brainstorm and store files for DataThink intern projects.
+# Intern Project: Access to African Agriculture Data
 
 <br>
 
 **Overview:**
 
-Agriculture is at the heart of global health. It provides the food and resources needed to sustain human life and support economic development. It serves as the backbone of food security as well as a significant role in environmental sustainability, economic stability, and poverty reduction.
+Agriculture drives global health, economic development, and food security. Yet in many African nations, reliable agricultural data remains inaccessible due to bureaucratic barriers. This limits the ability of farmers, policymakers, and businesses to make informed decisions.
 
-The goal of this project is to design a database and data pipeline that connects agricultural data sets and provides insights that can guide farmers and policymakers in making informed decisions. We hope to contribute to food security, optimize resource allocation, and promote sustainable agricultural practices in the face of global challenges.
+The **goal of this project** is to make agricultural data from hard-to-access regions, starting with Nigeria, publicly available. By compiling and standardizing data—often requiring formal requests to governments—we aim to reduce the friction for anyone interested who need reliable information. This will help improve resource management, food security, and sustainable practices.
 
 <br>
 
-**Current focus:** United States
+**Problem Statement:**
 
--   Geo-spatial map - land used for agriculture
+Inaccessible, unstructured agricultural data prevents evidence-based decision-making in many African countries, including Nigeria. This project seeks to solve that problem by streamlining access to agricultural data, enabling better decisions for optimizing crop yields, managing water resources, and addressing climate challenges.
 
--   Changes over time - relationship between agriculture and...
+**Current Focus:** Nigeria
 
-    -   climate change - food production and impact on climate (and climates impact on agriculture)
+Our initial focus is Nigeria, where we are collecting and structuring data related to:
 
-    -   economy/population/country growth
+-   Agricultural land use
 
-    -   water supply / shortages
+-   Climate change impacts
 
--   crop and animal production
+-   Food production and economic links
 
--   land use and ownership
+-   Water supply
 
--   agriculture trade between nations
+-   Crop and livestock production
 
-**Possible Data Locations:**
+-   Land ownership
 
-  [worldbank](https://data.worldbank.org/topic/agriculture-and-rural-development)
+-   Agricultural trade
 
+<br>
+
+**Future Expansion:**
+
+Once a model is built for Nigeria, we plan to expand to other African countries, contributing to the goal of accessible agricultural data across the continent.
